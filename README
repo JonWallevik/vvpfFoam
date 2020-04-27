@@ -1,0 +1,23 @@
+Author
+    Dr.ing. Jon Elvar Wallevik, Innovation Center Iceland, Reykjavik, Iceland.
+
+    This work was supported by the Icelandic Research Fund (IRF) --
+    grant number 163382-05
+
+Application
+    vvpfFoam
+
+Description
+    Solver that combines the volume of fluid method (VOF) with with the drift
+    flux model (DFM). The mixture is assumed high viscous.
+
+Documentation
+Jon Elvar Wallevik, Combining the Volume of Fluid Method with the Drift Flux Model
+within the OpenFOAM Framework – The vvpfFoam Solver, Innovation Center Iceland,
+Report No. NMI 20-01, 2020 (ISBN: 978-9935-463-59-3).
+
+
+*** Source code and documentation is available at
+    http://www.vvpf.net/download.html
+    See the appendix about build guide:
+
